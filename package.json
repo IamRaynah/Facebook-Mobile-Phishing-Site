@@ -1,0 +1,20 @@
+{
+  "name": "phishing",
+  "version": "1.0.0",
+  "description": "Phishing Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "IamRaynah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
